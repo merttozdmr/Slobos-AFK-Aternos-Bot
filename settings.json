@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {undyingsmpishere.aternos.me
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 45005,
     "version": "",
     "try-creative": false
   },
