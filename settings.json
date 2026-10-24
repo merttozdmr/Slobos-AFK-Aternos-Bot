@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {undyingsmpishere.aternos.me
-    "ip": "slobtest1.aternos.me",
+  "server": {
+    "ip": "sundyingsmpishere.aternos.me",
     "port": 45005,
     "version": "",
     "try-creative": false
